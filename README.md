@@ -20,6 +20,8 @@
    - Android Studio or other relevant tools for Android app development
 5. AI API Integration:
    - AI API for real-time models and information
+
+
 ##Deployed URL:
 https://drive.google.com/drive/folders/1MJCE3y8UGFAH4T4k7zeGAFoe_T64Wfab?usp=drive_link
 
